@@ -126,7 +126,7 @@ cask "font-fira-code-nerd-font"
 # Web browser
 cask "google-chrome"
 # Set of tools to manage resources and applications hosted on Google Cloud
-cask "google-cloud-sdk"
+# cask "google-cloud-sdk"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
 # Provides updates to various Microsoft products
@@ -136,15 +136,15 @@ cask "microsoft-edge"
 # Collaboration platform for API development
 cask "postman"
 # Move and resize windows using keyboard shortcuts or snap areas
-cask "rectangle"
+# cask "rectangle"
 # MongoDB management tool
 cask "robo-3t"
 # Tool to format memory cards complying with the SD File System spec
-cask "sdformatter"
+# cask "sdformatter"
 # Team communication and collaboration software
 cask "slack"
 # JDK from the Eclipse Foundation (Adoptium)
-cask "temurin8"
+# cask "temurin8"
 # Open-source code editor
 cask "visual-studio-code"
 # JavaScript IDE

@@ -88,8 +88,8 @@ export DOCKER_REGISTRY=registry.exzeo.io/docker
 # ------------------------------------------------------------------------------
 # Howchoo stuff
 # ------------------------------------------------------------------------------
-export HOWCHOO_DIR=/Users/jordanrhodes/Developer/howchoo/Howchoo-django  # Added by howchoo
-PATH=$PATH:$HOWCHOO_DIR/bin/commands  # Added by howchoo
+# export HOWCHOO_DIR=/Users/lhendriks/Developer/howchoo/Howchoo-django  # Added by howchoo
+# PATH=$PATH:$HOWCHOO_DIR/bin/commands  # Added by howchoo
 
 # ------------------------------------------------------------------------------
 # Serverless framework
