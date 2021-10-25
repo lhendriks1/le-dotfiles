@@ -99,7 +99,7 @@ brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
 brew "zsh-syntax-highlighting"
 # Terminal stock ticker with live updates and position tracking
-brew "achannarasappa/tap/ticker"
+# brew "achannarasappa/tap/ticker"
 # Everything you need to get started with Heroku
 brew "heroku/brew/heroku"
 # Tail logs from multiple Kubernetes pods at the same time
@@ -124,7 +124,7 @@ cask "firefox"
 cask "firefox-developer-edition"
 cask "font-fira-code-nerd-font"
 # Web browser
-cask "google-chrome"
+# cask "google-chrome"
 # Set of tools to manage resources and applications hosted on Google Cloud
 # cask "google-cloud-sdk"
 # Terminal emulator as alternative to Apple's Terminal app
@@ -146,8 +146,8 @@ cask "slack"
 # JDK from the Eclipse Foundation (Adoptium)
 # cask "temurin8"
 # Open-source code editor
-cask "visual-studio-code"
+# cask "visual-studio-code"
 # JavaScript IDE
-cask "webstorm"
+# cask "webstorm"
 # Video communication and virtual meeting platform
 cask "zoom"
