@@ -82,7 +82,24 @@ For the secondary account, the username and email have to be overwritten, using 
 
 git config user.name "Full Name"
 git config user.email email_address
-This must be done once for every secondary (e.g. github) repo, it is not needed for github (or primary) repos because the global is used in that scenario. There may be a cleaner way to do this but right now it works okay.
+---
+## Other Set up Things I like
+#### That have to be manually done :(
+bookmarks bar separator: https://separator.mayastudios.com/
+plugins
+1. JS GraphQL
+2. Key Promoter X
+3. One Dark theme
+4. Rainbow Brackets
+5. Docker
 
-Just to be clear you do not need to change these values back afterwards because the global values (which apply to all future repos created) will be set.
+WebStorm appearance:
+1. One Dark theme
+2. Use custom font: .SF NS Text
+3. Enable mnemonics in controls
+4. Smooth scrolling: true
+5. Display icons in menu items: true
+
+Keymap > JS and TS > Fix ESLint Problems: cmd + shift + opt + L
+
 

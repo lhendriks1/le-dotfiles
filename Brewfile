@@ -151,3 +151,5 @@ cask "slack"
 # cask "webstorm"
 # Video communication and virtual meeting platform
 cask "zoom"
+# Show CPU, SSD, RAM etc (after cask install must open app to get it running)
+cask "stats"

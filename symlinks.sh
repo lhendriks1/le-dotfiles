@@ -11,7 +11,7 @@ dir=$(pwd)
 # old dotfiles backup directory
 olddir=~/dotfiles_old
 # list of files/folders to sylink in homedir
-files="vimrc vim gitconfig gitignore zshrc zsh_aliases zsh_secrets tmux.conf"
+files="gitconfig gitignore zshrc zsh_aliases zsh_secrets"
 
 ##########
 

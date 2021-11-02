@@ -2,7 +2,7 @@
 [user]
 # Please adapt and uncomment the following lines:
 	name = Lydia Hendriks
-	email = hendriks.lydia@gmail.com
+	email = lhendriks@exzeo.com
 [alias]
   up = "!git remote update -p; git merge --ff-only @{u}"
   conf  = config --global -e
