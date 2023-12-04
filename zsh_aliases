@@ -84,3 +84,6 @@ alias harmony='cd ~/Developer/harmony'
 #Init 'thefuck'
 eval $(thefuck --alias)
 
+#vpn https://github.com/adrienverge/openfortivpn
+alias vpn=openfortivpn -c ~/configs/openfortivpn/coconut-palms
+

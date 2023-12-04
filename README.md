@@ -102,4 +102,7 @@ WebStorm appearance:
 
 Keymap > JS and TS > Fix ESLint Problems: cmd + shift + opt + L
 
+Webstorm enable command-line interface to open files
+in webstorm, press shift 2x, search 'create command-line interface'; change 'webstorm' to 'web' and save
+
 

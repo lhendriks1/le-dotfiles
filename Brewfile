@@ -153,3 +153,6 @@ cask "slack"
 cask "zoom"
 # Show CPU, SSD, RAM etc (after cask install must open app to get it running)
 cask "stats"
+brew install openfortivpn
+# compatible with Fortinet VPNs
+
