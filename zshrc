@@ -83,7 +83,7 @@ export PATH="/usr/local/opt/mongodb-community@3.6/bin:$PATH"
 # ------------------------------------------------------------------------------
 # Exzeo stuff
 # ------------------------------------------------------------------------------
-export DOCKER_REGISTRY=registry.exzeo.io/docker
+export DOCKER_REGISTRY=exzeo
 
 # ------------------------------------------------------------------------------
 # Howchoo stuff
@@ -101,3 +101,20 @@ export PATH="$HOME/.serverless/bin:$PATH"
 # ------------------------------------------------------------------------------
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 #export PATH="$PATH:$HOME/.rvm/bin"
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/lhendriks/miniforge3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/lhendriks/miniforge3/etc/profile.d/conda.sh" ]; then
+        . "/Users/lhendriks/miniforge3/etc/profile.d/conda.sh"
+    else
+        export PATH="/Users/lhendriks/miniforge3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+export PATH="$HOME/.local/bin:$PATH"
